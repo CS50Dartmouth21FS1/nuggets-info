@@ -15,7 +15,7 @@ Your team will develop the code for the *Nuggets* game, according to the [Requir
 * Good design, good style, good documentation, and good testing are expected.
 * Consider the [characteristics of a successful team](https://www.cs.dartmouth.edu/~cs50/Activities/teamwork/index.md).
 
-:arrow_forward:$
+:arrow_forward:
 You may find this [demo video](https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbece9b4-30f1-49ab-8669-ad220160f0f0) to be helpful.
 
 ## Starter kit

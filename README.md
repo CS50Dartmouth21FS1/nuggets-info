@@ -13,7 +13,6 @@ Your team will develop the code for the *Nuggets* game, according to the [Requir
 * We provide a starter kit via GitHub Classroom.
 * Your team shall follow the [Git Flow](https://www.cs.dartmouth.edu/~cs50/Lectures/units/git-flow.html) style of git management.
 * Good design, good style, good documentation, and good testing are expected.
-# IF your team uses the [Scrum](scrum.md) style of project management, you can earn extra credit.
 * Consider the [characteristics of a successful team](https://www.cs.dartmouth.edu/~cs50/Activities/teamwork/index.md).
 
 :arrow_forward:$

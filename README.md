@@ -152,7 +152,7 @@ Your final project will be graded out of 100 as follows:
  * **15**: Implementation spec
  * **15**: Code style and quality
  * **15**: Final presentation
- * **10**: Scrum and Git practices
+ * **10**: git and git-fLow practices
  * **30**: Functionally correct and complete
  * **-10** (off the top) ***per hour*** if submitted late
 

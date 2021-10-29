@@ -124,17 +124,17 @@ We grade this section out of 15 points.
 	* gold collection
 	* game over
 
-## Scrum and Git practices (10%)
+## git and git-flow practices (10%)
 
 Your repo *must* have a git branch `submit-final`.
 We will grade the contents of that branch as it appears on GitHub at the moment of the deadline; if you want us to grade a later commit, despite the lateness penalty, let us know.
 
 We grade this section out of 20 points.
 
-  * (4) GitHub wiki shows good use of Sprint retrospectives
-  * (4) GitHub Project Board shows good use of Scrum planning
-  * (4) git commit history - logical groupings of changes in each commit, and meaningful commit messages.
-  * (4) git commit history - good use of branches and [git-flow](https://www.cs.dartmouth.edu/~cs50/Lectures/units/git-flow.html).
+  # (4) GitHub wiki shows good use of Sprint retrospectives
+  # (4) GitHub Project Board shows good use of Scrum planning
+  * (8) git commit history - logical groupings of changes in each commit, and meaningful commit messages.
+  * (8) git commit history - good use of branches and [git-flow](https://www.cs.dartmouth.edu/~cs50/Lectures/units/git-flow.html).
   * (4) no executable files, object files, core dump files, editor backup files, or extraneous files existing in any directory.
 
 ## Functionally correct and complete (30%)

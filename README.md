@@ -43,7 +43,7 @@ Your design document (written in Markdown) shall describe the major design decis
 
 Recall the lecture unit about Design; it has a section about design specs..
 as examples, see the design specs provided as part of the tse.
-**do *not* repeat elements of the [requirements spec](requirements.md)**; just refer to it as needed.
+**do *not* repeat elements of the [Requirements Spec](REQUIREMENTS.md)**; just refer to it as needed.
 
 **how to submit:**
 commit a file `design.md` and any associated files.

@@ -22,7 +22,7 @@ You may find this [demo video](https://dartmouth.hosted.panopto.com/Panopto/Page
 
 When you accept the assigment using the GitHub Classroom (using the link in Canvas), you will be asked to join an existing team or to create a new team.
 Please coordinate with your teammates to ensure that your team is registered just once.
-One member should **immediately** configure your repo to [protect the main branch](https://www.cs.dartmouth.edu/~cs50/Lectures/units/protect-main.html).
+One member should **immediately** configure your repo to [protect the main branch](https://github.com/CS50Dartmouth21FS1/home/blob/fall21s1/knowledge/units/protect-main.html).
 All members of the team should then clone the team's new repository, which includes the starter kit.
 
 ## Submissions
